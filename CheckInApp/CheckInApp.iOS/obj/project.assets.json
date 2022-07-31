@@ -1203,11 +1203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp.iOS\\CheckInApp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp.iOS\\CheckInApp.iOS.csproj",
       "projectName": "CheckInApp.iOS",
-      "projectPath": "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp.iOS\\CheckInApp.iOS.csproj",
+      "projectPath": "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp.iOS\\CheckInApp.iOS.csproj",
       "packagesPath": "C:\\Users\\gc021217\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp.iOS\\obj\\",
+      "outputPath": "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1228,8 +1228,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj": {
-              "projectPath": "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj"
+            "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj": {
+              "projectPath": "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj"
             }
           }
         }

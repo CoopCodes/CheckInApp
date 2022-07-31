@@ -2112,11 +2112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp.Android\\CheckInApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp.Android\\CheckInApp.Android.csproj",
       "projectName": "CheckInApp.Android",
-      "projectPath": "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp.Android\\CheckInApp.Android.csproj",
+      "projectPath": "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp.Android\\CheckInApp.Android.csproj",
       "packagesPath": "C:\\Users\\gc021217\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp.Android\\obj\\",
+      "outputPath": "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2137,8 +2137,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj": {
-              "projectPath": "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj"
+            "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj": {
+              "projectPath": "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj"
             }
           }
         }

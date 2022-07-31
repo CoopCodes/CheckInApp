@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj": {}
+    "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj": {
+    "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj",
+        "projectUniqueName": "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj",
         "projectName": "CheckInApp",
-        "projectPath": "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj",
+        "projectPath": "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj",
         "packagesPath": "C:\\Users\\gc021217\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp\\obj\\",
+        "outputPath": "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

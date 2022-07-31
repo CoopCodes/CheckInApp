@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oqOt6nSE1F1i6c/4XGxnWBWHxpxAC8+kTJWopeUToL5D4zkuxsNf16xC0C6fP3ngVG+TkPfi5WLndKLrKIybtQ==",
+  "dgSpecHash": "B0eexFtrT5PDalS9D28ye8vlBj5EOBIWJ5C5GyZFmmfL0Sd2WfLHakNgjrmPqBWvUnv0cJo6We8dYQCGDkEqXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj",
+  "projectFilePath": "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp\\CheckInApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gc021217\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\gc021217\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

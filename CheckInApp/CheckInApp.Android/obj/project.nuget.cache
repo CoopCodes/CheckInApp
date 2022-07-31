@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4puyqs0YkV8kE/AR55ezP58YaDD+6BBKk2sQekkD5A8hMkOYfMzFEDNyuS7j14qc4rwT72DueEs/m/4p7b+LDA==",
+  "dgSpecHash": "iwRPxTeSLv6A+Lw1Tfk+lFEVI8Sy6OMCwCXw8b27AFZwT3CzsNG/rSBf/byJMsu2LyZZvC0VmB0OgsKJznlFKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gc021217\\source\\repos\\CheckInApp\\CheckInApp\\CheckInApp.Android\\CheckInApp.Android.csproj",
+  "projectFilePath": "C:\\Users\\gc021217\\source\\repos\\CheckInAppPhone\\CheckInApp\\CheckInApp\\CheckInApp.Android\\CheckInApp.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gc021217\\.nuget\\packages\\fastandroidcamera\\2.0.0\\fastandroidcamera.2.0.0.nupkg.sha512",
     "C:\\Users\\gc021217\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
