@@ -11,31 +11,30 @@ using System.Threading;
 using System.Windows;
 using System.Data.SqlClient;
 using System.IO;
+//using MVVMDataBinding.ViewModel;
 
-namespace CheckInAppMobile.ViewModels {
+namespace CheckInAppMobile.ViewModels { 
     public class MainViewModel : BaseViewModel {
         Dictionary<string, Models.EventType> eventTypes = Globals.EventTypes;
 
         public bool CheckedIn { get; set; } = false;
         public int DeviceID { get; set; } //Make sure to set value, either from register, log in, or from file
+        public string result;
 
         public MainViewModel() {
+            //zxing.OnScanResult += (result) => Device.BeginInvokeOnMainThread(() => {
+            //    result = result;
+
             DeviceID = Globals.DeviceID;
         }
-
-        //public void OnCreate(object sender, EventArgs e) {
-        //    ZXing.Net.Mobile.Forms.Android.Platform.Init();
-           
-        //}
 
         #region Events
 
         public void CheckInClick(object sender, EventArgs e) {
             //QR Code stuff
-
         }
 
-        private async void btnScan_Clicked(object sender, EventArgs e) {
+        private void btnScan_Clicked(object sender, EventArgs e) {
             
         }
 

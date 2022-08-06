@@ -8,17 +8,5 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("CheckInAppMobile.Views.Main.xaml", "Views/Main.xaml", typeof(global::CheckInAppMobile.Views.AboutPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("CheckInAppMobile.Views.Main.xaml", "Views/Main.xaml", null)]
 
-namespace CheckInAppMobile.Views {
-    
-    
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\Main.xaml")]
-    public partial class AboutPage : global::Xamarin.Forms.ContentPage {
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(AboutPage));
-        }
-    }
-}

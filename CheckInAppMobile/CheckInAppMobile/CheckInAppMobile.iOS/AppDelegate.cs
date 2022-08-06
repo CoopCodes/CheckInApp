@@ -9,7 +9,7 @@ namespace CheckInAppMobile.iOS
 {
     // The UIApplicationDelegate for the application. This class is responsible for launching the 
     // User Interface of the application, as well as listening (and optionally responding) to 
-    // application events from iOS.
+    // application events from iOS.   
     [Register("AppDelegate")]
     public partial class AppDelegate : global::Xamarin.Forms.Platform.iOS.FormsApplicationDelegate
     {
@@ -25,6 +25,8 @@ namespace CheckInAppMobile.iOS
             global::Xamarin.Forms.Forms.SetFlags("CollectionView_Experimental");
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
+            ZXing.Net.Mobile.Forms.iOS.Platform.Init();
+            //ZXing.Net.Mobile.Forms.WindowsUniversal.Platform.Init();
 
             return base.FinishedLaunching(app, options);
         }

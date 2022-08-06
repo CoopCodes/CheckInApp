@@ -10,3 +10,10 @@ C:\Users\gc021217\source\repos\CheckInAppPhone\CheckInApp\CheckInAppMobile\Check
 C:\Users\gc021217\source\repos\CheckInAppPhone\CheckInApp\CheckInAppMobile\CheckInAppMobile\CheckInAppMobile\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
 C:\Users\gc021217\source\repos\CheckInAppPhone\CheckInApp\CheckInAppMobile\CheckInAppMobile\CheckInAppMobile\obj\Debug\netstandard2.0\CheckInAppMobile.AssemblyInfoInputs.cache
 C:\Users\gc021217\source\repos\CheckInAppPhone\CheckInApp\CheckInAppMobile\CheckInAppMobile\CheckInAppMobile\obj\Debug\netstandard2.0\CheckInAppMobile.AssemblyInfo.cs
+C:\Users\gc021217\source\repos\CheckInAppPhone\CheckInApp\CheckInAppMobile\CheckInAppMobile\CheckInAppMobile\obj\Debug\netstandard2.0\CheckInAppMobile.App.xaml.g.cs
+C:\Users\gc021217\source\repos\CheckInAppPhone\CheckInApp\CheckInAppMobile\CheckInAppMobile\CheckInAppMobile\obj\Debug\netstandard2.0\CheckInAppMobile.AppShell.xaml.g.cs
+C:\Users\gc021217\source\repos\CheckInAppPhone\CheckInApp\CheckInAppMobile\CheckInAppMobile\CheckInAppMobile\obj\Debug\netstandard2.0\CheckInAppMobile.Views.ItemDetailPage.xaml.g.cs
+C:\Users\gc021217\source\repos\CheckInAppPhone\CheckInApp\CheckInAppMobile\CheckInAppMobile\CheckInAppMobile\obj\Debug\netstandard2.0\CheckInAppMobile.Views.ItemsPage.xaml.g.cs
+C:\Users\gc021217\source\repos\CheckInAppPhone\CheckInApp\CheckInAppMobile\CheckInAppMobile\CheckInAppMobile\obj\Debug\netstandard2.0\CheckInAppMobile.Views.LoginPage.xaml.g.cs
+C:\Users\gc021217\source\repos\CheckInAppPhone\CheckInApp\CheckInAppMobile\CheckInAppMobile\CheckInAppMobile\obj\Debug\netstandard2.0\CheckInAppMobile.Views.Main.xaml.g.cs
+C:\Users\gc021217\source\repos\CheckInAppPhone\CheckInApp\CheckInAppMobile\CheckInAppMobile\CheckInAppMobile\obj\Debug\netstandard2.0\CheckInAppMobile.Views.NewItemPage.xaml.g.cs
